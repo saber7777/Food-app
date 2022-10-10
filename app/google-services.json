@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759040283981",
+    "firebase_url": "https://faster-food-57bea-default-rtdb.firebaseio.com",
+    "project_id": "faster-food-57bea",
+    "storage_bucket": "faster-food-57bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759040283981:android:e4d4f76a0b9e7f9e855304",
+        "android_client_info": {
+          "package_name": "com.example.fasterfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759040283981-do9v7kme3n9u1fvms53m329egjrnk2o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrjsJQegxhQPcNgoT6C4Rfha9s266fGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759040283981-do9v7kme3n9u1fvms53m329egjrnk2o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

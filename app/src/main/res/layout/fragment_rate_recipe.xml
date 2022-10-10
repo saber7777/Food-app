@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fdc788"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".fragment.recipe.RateRecipeFragment">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EFA34A"
+        android:fontFamily="@font/fredoka_one"
+        android:text="recipe detail"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:background="#ECB06A"
+        android:fontFamily="sans-serif-medium"
+        android:text="recipe detail asd
+asdasd\nasdasdasdasdasasasasasasasasasasasasasasasasasasasas\n
+asdasasasasasasasasasasasasasasasasasasasasasasasasasasasas\n
+asddddddddddddddddddddddddddddddddddddd\n
+asdddddddddddddddddddddddddddddd\n
+asddddddddddddddddddddddd\n
+asdddddddddddddddddddddddd\n
+asddddddddddddddddddddasd\n
+asdddddddddddddddddddddddd"
+        android:textColor="#000000" />
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5"
+        android:rating="2" />
+
+
+</LinearLayout>
